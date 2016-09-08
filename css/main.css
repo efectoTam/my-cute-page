@@ -1,0 +1,142 @@
+/*Inicio header*/
+
+header nav{
+	overflow: hidden;
+	width: 450px;
+	margin: 0px auto;
+	padding: 10px 0px;
+}
+
+header nav ul{
+	overflow: hidden;
+	list-style: none;
+	margin-right: 0px;
+}
+
+header nav ul li{
+	float:left;
+	margin: 0px 0px;
+}
+
+header nav ul li a{
+	padding-left: 40px;
+	padding-right: 40px;
+	display: block;
+	color:black;
+	text-decoration: none;
+	font-size: 17px;
+	font-family: "Oswald";
+}
+
+header nav ul li a:hover{
+	text-decoration: underline;
+}
+
+.fondo1{
+	background-image: url(../images/background.jpg);
+	background-size: 1900px;
+	height: 540px;
+	width: cover;
+}
+
+.imgheader{
+	margin-left: 160px;
+	margin-top: 120px;
+}
+
+.p1header,.p2header{
+	text-align: center;
+}
+
+.p1header{
+	color:white;
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.p2header{
+	color: white;
+	font-size: 35px;
+	font-weight: bold;
+}
+/*Fin header*/
+
+/*Inicio section1*/
+.fondo2{
+	background-image: url(../images/tile1.png);
+	background-size: 397px;
+	height: 390px;
+}
+
+.fotoperfil{
+	border: 1px solid black;
+	padding: 5px;
+	margin-left: 75px;
+	margin-top: 100px;
+	width: 240px;
+	height: 240px;
+}
+
+.about{
+	color: #AE2FAD;
+	margin-left: 250px;
+	margin-top: 70px;
+}
+
+.lorem{
+	margin-left: 15px;
+	margin-top: 30px;
+	margin-right: 130px;
+}
+
+/*Fin section1*/
+
+/*Inicio section2*/
+
+.fthings1{
+	font-size: 25px;
+	color: #AE2FAD;
+	font-weight: bold;
+	padding-top: 80px;
+	text-align: center;
+}
+
+.fthings2{
+	font-size: 18px;
+	color: #AE2FAD;
+	font-weight: bold;
+	padding-top: 20px;
+	padding-bottom: 30px;
+	text-align: center;
+}
+
+.gato{
+	border-radius: 50%;
+	border: #AE2FAD solid 3px;
+	padding: 5px;
+	width: 230px;
+	height: 230px;
+}
+
+.fila5{
+	padding-left: 120px;
+	padding-right: 140px;
+	padding-bottom: 50px;
+}
+
+/*Fin section2*/
+
+/*Inicio footer*/
+
+.fondo3{
+	background-image: url(../images/tile2.png);
+	background-size: 46px;
+	height: 340px;
+}
+
+.redes{
+	margin-top: 50px;
+	padding-left: 50px;
+}
+
+/*Fin footer*/
